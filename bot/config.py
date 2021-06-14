@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1809088770:AAHRn1CmOU6OVnSlvONp65GivubsTrkn0r8"
+    APP_ID = "5284288"
+    API_HASH = "1a4eea8ae59cbfa9d54cdc23b0f8da83"
+    DATABASE_URL = "postgres://sptganejchswho:c65bed2d3f8c4c9fbcdf89f86a7ef6cfb930c34832c89419fcd741afb955f25d@ec2-3-215-57-87.compute-1.amazonaws.com:5432/d8vp52p0bf1p35"
+    SUDO_USERS = "1753136888" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/moviesinveins"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
